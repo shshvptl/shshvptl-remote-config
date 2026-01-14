@@ -1,6 +1,6 @@
 {
   "flags": {
-    "bannerEnabledGlobally": true,
+    "bannerEnabledGlobally": false,
     "interstitialEnabledGlobally": true,
     "killSwitchAllAds": false
   },
