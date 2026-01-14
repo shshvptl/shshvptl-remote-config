@@ -1,10 +1,10 @@
 {
-  "version": 1,
-  "updatedAt": "2026-01-13T00:00:00Z",
   "flags": {
-    "bannerEnabledGlobally": false,
+    "bannerEnabledGlobally": true,
     "interstitialEnabledGlobally": true,
     "killSwitchAllAds": false
   },
-  "signature": "REPLACE_WITH_SIGNATURE"
+  "signature": "B3haSwppnQ+6nQWP9jxEx/S3NUKODU2+1w9nZoUAKvgwszvA/72gIGhlac0V1e0e731msIhOmPFUvO4rkFY+Dw==",
+  "updatedAt": "2026-01-13T00:00:00Z",
+  "version": 1
 }
